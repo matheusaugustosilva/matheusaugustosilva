@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&width=435&lines=Hello+there!;My+name+is+Matheus+Augusto+;I'm+19+years+old;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=Hello+there!;My+name+is+Matheus+Augusto+;Software+engennier)](https://git.io/typing-svg)
 
 <div align="center"> 
 <a href="https://www.instagram.com/_.matheus.augusto/" target="_blank">
