@@ -33,7 +33,7 @@
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/858e1e40-54c9-4b53-adca-ba64bbc34a85">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-<br>
+
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
